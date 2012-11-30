@@ -1,3 +1,9 @@
+ver 2.5:
+	Fix issue with maximum packet size for AMP controllers.
+	Add support for more advanced AMP controller decoding.
+	Add support for more advanced AVRCP decoding.
+	Add support for reading new BTSnoop data link type.
+
 ver 2.4:
 	Add support for A2MP decoding.
 	Add support for L2CAP create/move channel decoding.
